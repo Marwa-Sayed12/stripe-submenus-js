@@ -1,1 +1,1 @@
-# stripe-submenus-js        
+# stripe-submenus-js         
